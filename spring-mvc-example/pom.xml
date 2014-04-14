@@ -154,7 +154,7 @@
 				<version>2.1.1</version>
 				<configuration>
 <!-- 					<packagingExcludes>WEB-INF/web.xml</packagingExcludes> -->
-					<warName>${artifactId}</warName>
+					<warName>spring</warName>
 				</configuration>
 			</plugin>
 		</plugins>
